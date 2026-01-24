@@ -15,8 +15,8 @@
         "source": "url",
         "url": "https://github.com/hir4ta/memoria.git"
       },
-      "description": "Claude Codeに長期記憶を与えるプラグイン。auto-compactで失われるコンテキストを自動保存し、/memoria resumeで過去のセッションを復元。設計決定の記録、開発者パターンの学習、Webダッシュボードでの管理機能を提供。",
-      "version": "0.2.0",
+      "description": "Claude Codeに長期記憶を与えるプラグイン。auto-compactで失われるコンテキストを自動保存し、/memoria resumeで過去のセッションを復元。設計決定の自動検出・記録、開発者パターンの学習、Webダッシュボードでの管理機能を提供。",
+      "version": "0.3.3",
       "strict": true
     }
   ]
