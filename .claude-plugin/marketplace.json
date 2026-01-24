@@ -1,0 +1,23 @@
+{
+  "name": "memoria-marketplace",
+  "owner": {
+    "name": "hir4ta",
+    "email": ""
+  },
+  "metadata": {
+    "description": "memoria plugin marketplace - Claude Codeの長期記憶プラグイン",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "memoria",
+      "source": {
+        "source": "github",
+        "url": "https://github.com/hir4ta/memoria"
+      },
+      "description": "Claude Codeの長期記憶を実現するプラグイン。セッション履歴、設計決定、開発者パターンを保存・検索できます。",
+      "version": "0.1.0",
+      "strict": true
+    }
+  ]
+}
