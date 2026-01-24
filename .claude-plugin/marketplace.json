@@ -5,17 +5,17 @@
     "email": ""
   },
   "metadata": {
-    "description": "memoria plugin marketplace - Claude Codeの長期記憶プラグイン",
+    "description": "memoria - Claude Codeに長期記憶を与えるプラグイン",
     "version": "1.0.0"
   },
   "plugins": [
     {
       "name": "memoria",
       "source": {
-        "source": "github",
-        "url": "https://github.com/hir4ta/memoria"
+        "source": "url",
+        "url": "https://github.com/hir4ta/memoria.git"
       },
-      "description": "Claude Codeの長期記憶を実現するプラグイン。セッション履歴、設計決定、開発者パターンを保存・検索できます。",
+      "description": "Claude Codeに長期記憶を与えるプラグイン。auto-compactで失われるコンテキストを自動保存し、/memoria resumeで過去のセッションを復元。設計決定の記録、開発者パターンの学習、Webダッシュボードでの管理機能を提供。",
       "version": "0.1.0",
       "strict": true
     }
