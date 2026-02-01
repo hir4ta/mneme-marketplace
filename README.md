@@ -1,19 +1,22 @@
-# memoria-marketplace
+# mneme-marketplace
 
-[memoria](https://github.com/hir4ta/memoria) プラグインのマーケットプレイス。
+[mneme](https://github.com/hir4ta/mneme) プラグインのマーケットプレイス。
+
+> **⚠️ 破壊的変更 (v0.17.0)**: `memoria` から `mneme` に名称変更しました。
+> 既存ユーザーは再インストールが必要です。
 
 ## インストール方法
 
 Claude Codeで以下を実行:
 
 ```
-/plugin marketplace add hir4ta/memoria-marketplace
-/plugin install memoria@memoria-marketplace
+/plugin marketplace add hir4ta/mneme-marketplace
+/plugin install mneme@mneme-marketplace
 ```
 
 ## 含まれるプラグイン
 
-### memoria
+### mneme
 
 Claude Codeの長期記憶を実現するプラグイン。
 
@@ -24,4 +27,4 @@ Claude Codeの長期記憶を実現するプラグイン。
 - コーディングルールの管理
 - Webダッシュボード
 
-詳細は [memoria リポジトリ](https://github.com/hir4ta/memoria) を参照してください。
+詳細は [mneme リポジトリ](https://github.com/hir4ta/mneme) を参照してください。
