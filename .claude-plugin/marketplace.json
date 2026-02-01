@@ -6,7 +6,7 @@
   },
   "metadata": {
     "description": "memoria - A long-term memory plugin for Claude Code",
-    "version": "0.16.4"
+    "version": "0.16.5"
   },
   "plugins": [
     {
@@ -16,7 +16,7 @@
         "url": "https://github.com/hir4ta/memoria.git"
       },
       "description": "A long-term memory plugin for Claude Code. Automatically saves context lost during auto-compact and restores past sessions with /memoria:resume. Features include auto-detection and recording of design decisions, developer pattern learning, and a web dashboard for management.",
-      "version": "0.16.4",
+      "version": "0.16.5",
       "strict": true
     }
   ]
