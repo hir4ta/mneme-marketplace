@@ -6,7 +6,7 @@
   },
   "metadata": {
     "description": "mneme - A long-term memory plugin for Claude Code",
-    "version": "0.18.3"
+    "version": "0.18.4"
   },
   "plugins": [
     {
@@ -16,7 +16,7 @@
         "url": "https://github.com/hir4ta/mneme.git"
       },
       "description": "A long-term memory plugin for Claude Code. Automatically saves context lost during auto-compact and restores past sessions with /mneme:resume. Features include auto-detection and recording of design decisions, developer pattern learning, and a web dashboard for management.",
-      "version": "0.18.3",
+      "version": "0.18.4",
       "strict": true
     }
   ]
